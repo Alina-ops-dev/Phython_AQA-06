@@ -2,5 +2,5 @@
 # 1 вариант
 x = 'ing'
 y = 'stroka'
-z = x + y
+z = y + x
 print(z)
